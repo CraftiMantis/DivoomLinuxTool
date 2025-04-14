@@ -1,6 +1,6 @@
 # Divoom Timesgate PC Monitor - Linux
 
-A native Linux tool for sending system information to Divoom TimeGate device.
+A native Linux tool for sending system information to Divoom TimesGate device.
 
 ## Getting Started
 
@@ -103,7 +103,7 @@ This ensures that both traditional hard drives and modern SSDs are properly supp
 
 ## Latest Improvements
 
-- Advanced screen selection for TimeGate devices with multiple screens
+- Advanced screen selection for TimesGate devices with multiple screens
 - Comprehensive support for SSDs and modern storage devices
 - Optimized communication with Divoom devices
 - Intelligent PC Monitor Clock selection functionality
