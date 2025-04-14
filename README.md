@@ -1,6 +1,6 @@
 # Divoom Linux Monitor Tool
 
-A native Linux tool for sending system information to Divoom Pixoo64 and TimeGate devices.
+A native Linux tool for sending system information to Divoom TimeGate device.
 
 ## Getting Started
 
@@ -83,7 +83,7 @@ sudo ./run.sh --restart
 
 ## TimeGate Devices
 
-If you have a TimeGate device with multiple screens:
+TimeGates device with multiple screens:
 
 1. When you select the device, you'll be prompted to choose which screen (1-5) to use
 2. Each screen on the TimeGate can be controlled independently
