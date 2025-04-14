@@ -1,4 +1,4 @@
-# Divoom Linux Monitor Tool
+# Divoom Timesgate PC Monitor - Linux
 
 A native Linux tool for sending system information to Divoom TimeGate device.
 
